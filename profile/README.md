@@ -7,7 +7,7 @@
 ## What we do
 
 We aggregate and verify breaking news from around the world using open-source intelligence (OSINT) techniques including satellite imagery, local sources, official statements, and on-the-ground reports. Our contributors and affiliates monitor developing situations 24/7 across conflict zones, diplomatic flashpoints, and major world events.
-Since launching in May 2024 we have generated over 300 million combined impressions, grown to over 144,000 followers on X, built a Discord community of 23,000+ members, and have been cited by international media including CNN. We operate with a team of journalists, analysts, geolocators, and local sources worldwide.
+Since launching in May 2024 we have generated over 300 million combined impressions, grown to over 150,000 followers on X, built a Discord community of 25,000+ members, and have been cited by international media including CNN. We operate with a team of journalists, analysts, geolocators, and local sources worldwide.
 
 ## Where to find us
 
